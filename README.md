@@ -8,7 +8,7 @@ Command line pastebin for sharing terminal output.
 1. Clone into repository:
 
     ```
-    https://github.com/solusipse/fiche.git
+    https://github.com/bennabiy/fiche.git
     ```
 
 2. Build program:
